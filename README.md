@@ -6,20 +6,20 @@ Date created: June 4, 2023
 
 # Description:
 
-Analysis done in Mol* and in-house jupyter notebook scripts, for analyzing the Twort Group I Ribozyme sequence (Accession # AY954970.1, Nucleotide numbers 16983-17234)
-as well as possible evolutionarily related bacteriophages.
+Analysis done in Mol* and in-house jupyter notebook scripts, for examining specific residues of the Twort Group I Ribozyme sequence (Accession # AY954970.1, Nucleotide numbers 16983-17234)
+and aligned sequences found in evolutionarily related bacteriophages.
 
 # /molstar_save_states/:
 
-Mol* analysis of the crystalized Twort Group I Ribozyme (Golden et al. 2004), with certain domains highlighted.
-Note: Truncated P1 sequence
+Mol* analysis of the structure of the crystalized Twort Group I Ribozyme (Golden et al. 2004), with certain domains highlighted.
+Note: Truncated P1 sequence and mutation U10A.
 
 # /pairwise_alignment_tool/:
 
 lab2_final.ipynb: Reads slightly modified .txt clustal outputs from several different pairwise alignments, that
 contain the 252-nucleotide Twort ribozyme sequence aligned with a BLAST sequence from a 
 given genome of select bacteriophages, and aligns the sequence, starting from the 
-first nucleotide alignment relative to the given Twort sequence, and ending
+first chosen nucleotide alignment relative to the given Twort sequence, and ending
 at the second chosen nucleotide alignment. Includes specific sequences examined
 during the assignment, as well as an option for user input
 
@@ -33,6 +33,6 @@ during the assignment, as well as an option for user input
 
 # Other Software used:
 - BLASTn (Query of alignments or potential Group I ribozyme sequences in other bacteriophage species)
-- Clustal Omega (Outputs alignments between Twort and candidate ribozyme sequences found in other bacteriophages)
+- Clustal Omega (Outputs pairwise alignment files between Twort and candidate ribozyme sequences found in other bacteriophages)
 - Jupyter Notebook Version 6.5.2 
 - Mol* (https://molstar.org/)
