@@ -16,11 +16,12 @@ Note: Truncated P1 sequence
 
 # /pairwise_alignment_tool/:
 
-Reads slightly modified .txt clustal outputs from several different pairwise alignments, that
+lab2_final.ipynb: Reads slightly modified .txt clustal outputs from several different pairwise alignments, that
 contain the 252-nucleotide Twort ribozyme sequence aligned with a BLAST sequence from a 
 given genome of select bacteriophages, and aligns the sequence, starting from the 
 first nucleotide alignment relative to the given Twort sequence, and ending
-at the second chosen nucleotide alignment. 
+at the second chosen nucleotide alignment. Includes specific sequences examined
+during the assignment, as well as an option for user input
 
 # Accession numbers of sequences used:
 - Staphylococcus phage Twort (Accession # AY954970.1) (Kwan, T., Liu, J., DuBow,M., Gros,P. and Pelletier, J. 2005)
@@ -31,8 +32,7 @@ at the second chosen nucleotide alignment.
 - Vibrio phage VPMCC14 (Accession #ON922990.1) (Kar,P. and Ghosh,K. 2022) 
 
 # Other Software used:
-Jupyter Notebook Version 6.5.2
-BLASTn
-Clustal Omega
-Other in-house Jupyter notebook scripts
-Mol* (https://molstar.org/)
+- BLASTn (Query of alignments or potential Group I ribozyme sequences in other bacteriophage species)
+- Clustal Omega (Outputs alignments between Twort and candidate ribozyme sequences found in other bacteriophages)
+- Jupyter Notebook Version 6.5.2 
+- Mol* (https://molstar.org/)
