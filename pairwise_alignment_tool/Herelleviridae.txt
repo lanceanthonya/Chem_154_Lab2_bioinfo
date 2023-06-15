@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Twort               ---------AAAUAAUUGUGCCUUUAUACAGUA------AUGUAUAUCGAAAAAUCCUCU	45
+Herelleviridae      CAGUUUUGUUACGAUUAGGGUCGUUACUCCUAACCUUCUAUAUGUUUCC-------AUAU	53
+                              *  * * * * * ***  *   *      ** * * **         * *
+
+Twort               AAUUCAGGGAACACCUAAACAAACUAAGAUGU-AGGCAAUCCUGA--GCUAA--------	94
+Herelleviridae      AGCUCAGACUAUAUC-------ACUACCAUUUAAGGUAAUCCCCGUUUCCAAUCACUUGA	106
+                    *  ****   * * *       ****  ** * *** *****      * **        
+
+Twort               ----GCUCUUAGUAAUAAGAGAAAGUGCAACG-ACUAUUCCGAUAGGAAGUAGGGUCAAG	149
+Herelleviridae      UUGUACUCUCCGUAGAGAUAGUCGUUGCACCUUACUCUU--GUUAGAGUCUU--------	156
+                         ****  ***   * **    **** *  *** **  * ***    *         
+
+Twort               UGACUCGAAAUGGGGA-----UUACCCUUCUAGGGUAGUGAUAUAGUCUGAA------CA	198
+Herelleviridae      -GGCUCAGAAUUGCCUACAUCUUAAUCUGUUUAGG------UAUUCUCUGAAUUAGAGGA	209
+                     * ***  *** *        ***  **  *  **      ***  ******       *
+
+Twort               UAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUUCGUAACAUAAUUG	252
+Herelleviridae      UUUUUCGAUAUACAUUUCUGUAUAAAGG-CACAA--------------------	242
+                    * * * ** * * **    * ***   *  ** *                    

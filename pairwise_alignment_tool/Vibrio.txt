@@ -1,0 +1,21 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Twort       AAAUAAUUGUGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCU-AAUUCAGGGAACAC	59
+Vibrio      -AAUUAUAGUCGCUUUAGAGAGUAAUCUCUAUCGAAAAACUGUGUGAAUUCAGGGAAAAU	59
+             *** ** **  ***** * ****** * **********   * * *********** * 
+
+Twort       CUAAACAAACUAAGAUGUAGGCAAUCCUGAGCUAAGCUCUUAGUAAUAAGAGAAAGUGCA	119
+Vibrio      CCUAAC--GUUAAGACGAGGGCAAUCCUGAGCGAAGCUCUUAAUA-CAAGAGAACGUGCA	116
+            *  ***    ***** *  ************* ********* **  ******* *****
+
+Twort       ACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGG	179
+Vibrio      ACGACUAU----------------------------------------------------	124
+            ********                                                    
+
+Twort       UAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUU	239
+Vibrio      ------------------------------------------------------------	124
+                                                                        
+
+Twort       CGUAACAUAAUUG	252
+Vibrio      -------------	124

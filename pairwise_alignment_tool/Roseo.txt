@@ -1,0 +1,21 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Twort            AAAUAAUUGUGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACC	60
+Roseobacter      -UCUAUAUGUUUCCAUAUAGCUCAGACUAUAUC--AUCAUCCUUUCGGAUGUCUCGCGCU	57
+                    **  ***  *  ****    *   ******  *  ***** *           * * 
+
+Twort            UAAACAAACUAAGAUGUAGGCAAUCCUGAGCUAAGCUCUUAGUAAUAAGAGAAAGUGCAA	120
+Roseobacter      UCCACUCACUUGAGUGUACU---UCCUUACGG--------AAUAGUCGUUGCACCUUCAA	106
+                 *  **  ***    ****     **** *           * ** *    * *  * ***
+
+Twort            CGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGU	180
+Roseobacter      AGACCCGG-AGGUCUAAGCUUGGCUCAGGAUUGUCUA---CAGCAUUACCUGUUUAG---	159
+                  ***      * *   *  * ** *** *    ** *     * ******  * ***   
+
+Twort            AGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUUC	240
+Roseobacter      ----AUGUUCCCUGAGUU------------------------------------------	173
+                     ** *   ****                                             
+
+Twort            GUAACAUAAUUG	252
+Roseobacter      ------------	173
