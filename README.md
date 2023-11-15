@@ -1,6 +1,6 @@
 # Chem_154_Lab2_bioinfo
 
-Author: Cin Aquino 
+Author: Lance Anthony Aquino 
 
 Date created: June 4, 2023
 
